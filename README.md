@@ -13,5 +13,3 @@
 FACTERLIB=/root/puppet-alt/modules/alt_adapted/lib/facter         puppet apply /root/puppet-alt/manifests/site.pp         --modulepath=/root/puppet-alt/modules --show_diff --summarize
 ```
 
-## Публикация
-Рекомендуемый URL для публикации: https://github.com/kureevm/puppet-alt-experiment-v2
