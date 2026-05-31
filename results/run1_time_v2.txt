@@ -1,0 +1,4 @@
+Elapsed: 0:02.54
+CPU: 87%
+Maximum resident set size: 81100 KB
+Exit status: 0
